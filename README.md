@@ -1,3 +1,3 @@
-# NLW-2020
- Next Level Week #01:rocket:
+# NLW-2020:rocket:
+ Next Level Week #01
  
