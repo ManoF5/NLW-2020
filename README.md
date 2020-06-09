@@ -2,7 +2,8 @@
  Next Level Week #01 
 
 
-# Front-end = COMPLETE
+# Front-end :heavy_check_mark:
 
-# Back-end  = ERRO in Database
- 
+
+# Back-end :x:
+ ERRO in database.db :exclamation:
